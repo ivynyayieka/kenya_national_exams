@@ -27,3 +27,6 @@ What I can conclude based on this analysis:
 What I can't conclude based on this chart: 
 * Since it is possible other variables are affecting the distribution, I do not know yet which exact variable could be affecting the top scores.
 * I cannot make a global conclusion about a lack of correlation between election years and exam results because the plotting reveals only about 25% of the data is from election years. Perhaps more data would more reliably help make one conclusion or other
+
+#### I have failed to reject the null hypothesis that there is no difference between the top scores of candidates in Kenya's national examinations on years when there is an election compared to years where there is none.
+
