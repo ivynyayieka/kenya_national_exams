@@ -1,0 +1,22 @@
+year,candidates,min_uni_Cplus_scored,min_uni_Cplus_pct,scored_A,scored_Aminus,total_A,A_pct,Bplus,Bplain,Bminus,Cplus,Cplain,Cminus,Dplus,Dplain,Dminus,scored_E,special_needs_Cplus,special_needs_total,exams cancelled,subjects_improving,top_grade,election_year,president,pres_change,cabinet_secretary,cabinet_change,date,Source1,Source2
+2022,881416,173345,19.66665003,1146,6407,7553,0.8569165978,15682,31303,48719,70088,95154,119068,135021,155480,167758,30822,190,,,17,,yes,William Ruto,yes,George Magoha,no,,https://www.citizen.digital/news/2022-kcse-results-1146-candidates-score-grade-a-as-cs-machogu-hails-improved-performance-n312934,https://educationnewshub.co.ke/2022-kcse-results-statistics-analysis-must-know/
+2021,831026,145776,17.54168943,1138,"5,973",7111,0.8556892323,"13,463","25,035","39,683","59,843","81,345","99,406","116,355","145,916","187,264",46151,,,441,11,,no,Uhuru Kenyatta,no,George Magoha,no,,https://sokodirectory.com/2022/04/kcse-2021-overall-performance-in-each-grade/,
+2020,743299,143140,19.25739171,893,6420,7313,0.9838571019,14427,25207,38194,57999,85458,109454,117898,121942,137361,28046,,,287,,87,no,Uhuru Kenyatta,no,George Magoha,no,,"https://www.pd.co.ke/news/kcse-2020-overall-performance-summary-in-each-grade-75820/#:~:text=A%20total%20of%20743%2C%20299,an%20A%20plain%20and%20above.",
+2019,679222,125746,18.51324015,627,5796,6423,0.9456407478,13366,24478,35340,46139,63102,83358,101687,137713,152339,29318,,1309,,,87.159,no,Uhuru Kenyatta,no,George Magoha,yes,,https://educationnewshub.co.ke/kcse-2019-mean-grade-summary-top-schools-and-candidates-all-statistics/,
+2018,"642,204",90377,14.07294255,315,3417,3732,0.5811237551,8268,16403,26156,35818,,,,,,,88,1499,,14,87.64,no,Uhuru Kenyatta,no,Amina Mohamed,yes,,https://www.schoolsnetkenya.com/an-analysis-of-kcse-2018-results/,
+2017,660204,70073,10.61384057,142,2714,2856,0.432593562,7344,12628,19385,27860,40474,61040,88447,135550,179381,35356,,,,13,87.011,yes,Uhuru Kenyatta,no,Fred Matiangi,no,,https://kenyapage.net/education/kcse-results-2017.html,
+2016,577253,88928,15.40537685,141,4645,4786,0.8290991991,10975,17216,23745,32207,44792,61026,80951,112135,149929,33399,,,,,,no,Uhuru Kenyatta,no,Fred Matiangi,yes,,https://kenyapage.net/education/kcse-results-2016.html,https://kcpe-kcse.com/kcse-2016-results/
+2015,525724,169492,32.23973035,2685,12069,14754,2.806415534,21927,33460,44581,54770,64913,74115,79157,79555,48658,5350,,,5101,,,no,Uhuru Kenyatta,no,Jacob Kaimenyi,no,,https://kcseresults2015.wordpress.com/2016/03/07/2015-kcse-results-all-schools-in-kenya-download-excel-format/,https://kcpe-kcse.com/kcse-2016-results/kcse-2016-results-2/
+2014,483630,149717,30.95692988,3073,11768,14841,3.068668197,19814,29319,38315,47428,58688,70677,76198,73501,47716,5636,180,1090,2975,15,,no,Uhuru Kenyatta,no,Jacob Kaimenyi,yes,,https://archive.etelej.com/post/kcse-2014-results-and-analysis,https://weeklycitizennewspaper.blogspot.com/2015/03/kcse-results-2014.html
+2013,446696,123365,27.61721618,2722,9759,12481,2.79407024,17013,24656,30864,38351,48571,60763,71803,78177,55793,7042,,,,14,,yes,Uhuru Kenyatta,yes,Mutula Kilonzo,no,,https://studylib.net/doc/9912410/2014-kcse-examination-statistics,
+2012,436349,123704,28.34978423,1975,9235,11210,2.569044503,17730,25183,31110,38471,48905,58748,67203,73566,52433,7884,,,,,,no,Mwai Kibaki,no,Mutula Kilonzo,yes,,https://www.capitalfm.co.ke/news/files/2014/03/APPENDIX-A-2013-KCSE-EXAMINATION-ESSENTIAL-STATISTICS.pdf,
+2011,411783,119658,29.05850897,1930,9063,10993,2.669609964,16390,22944,30115,39216,49965,58845,63853,64392,42273,6600,,,,,,no,Mwai Kibaki,no,Sam Ongeri,no,,,
+2010,357488,97137,27.17210088,,,,,,,,,,,,,,,,,534,,,no,Mwai Kibaki,no,Sam Ongeri,no,,https://archive.etelej.com/post/kcse-2010-results,
+2009,337404,"81,048",24.02105488,,,,,,,,,,,,,,,,,1171,,,no,Mwai Kibaki,no,Sam Ongeri,no,,,
+2008,305015,,,,,,,,,,,,,,,,,,,,,,no,Mwai Kibaki,no,Sam Ongeri,yes,,,
+2007,"276,239",,,,,,,,,,,,,,,,,,,,,,yes,Mwai Kibaki,no,George Saitoti,no,,,
+2006,243453,,,,,,,,,,,,,,,,,,,,,,no,Mwai Kibaki,no,George Saitoti,no,,,
+2005,260665,,,,,,,,,,,,,,,,,,,,,,no,Mwai Kibaki,no,George Saitoti,no,,,
+2004,,,,,,,,,,,,,,,,,,,,,,,no,Mwai Kibaki,no,George Saitoti,no,,,
+2003,,,,,,,,,,,,,,,,,,,,,,,no,Mwai Kibaki,no,George Saitoti,yes,,,
+2002,,,,,,,,,,,,,,,,,,,,,,,yes,Mwai Kibaki,no,Henry Koskey,no,,,
