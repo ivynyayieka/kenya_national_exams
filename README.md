@@ -34,4 +34,4 @@ What I can't conclude based on this chart:
 Whether or not it is an election year does not affect the grades of candidates scoring the highest marks in Kenya's national examinations. Top candidates taking their national examinations in Kenya on election years are not likely to get higher or lower scores than candidates taking their exams on years when there are no elections.
 
 #### Data sources:
-See data_sources.md in repo
+See [data_sources.md](https://github.com/ivynyayieka/kenya_national_exams/blob/main/data_sources.md) in repo
