@@ -30,3 +30,5 @@ What I can't conclude based on this chart:
 
 #### I have failed to reject the null hypothesis that there is no difference between the top scores of candidates in Kenya's national examinations on years when there is an election compared to years where there is none.
 
+#### Reader-facing conclusion:
+Whether or not it is an election year does not affect the grades of candidates scoring the highest marks in Kenya's national examinations. Top candidates taking their national examinations in Kenya on election years are not likely to get higher or lower scores than candidates taking their exams on years when there are no elections.
