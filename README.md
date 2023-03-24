@@ -2,7 +2,7 @@
 
 ##### Is there a difference between the top scores of candidates in Kenya's national examinations on years when there is an election compared to years where there is none?
 
-KCPE: Kenya Certificate of Primary Education, a national exam taken by students in grade 8 across the country, usually about 12 to 14 years old.
+KCPE: Kenya Certificate of Primary Education, a national exam taken by students in grade 8 across the country, usually about 12 to 14 years old. <br/>
 KCPE: Kenya Certificate of Secondary Education, a national exam taken by students in Form 4 across the country, usually about 16 to 18 years old.
 
 
