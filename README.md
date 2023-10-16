@@ -20,9 +20,10 @@ Through the t-tests, I test whether the difference between the scores in the ele
 What I can conclude based on this analysis:
 * This project is helpful for seeing the percent of candidates that got the highest scores in their exams by year.
 * It appears that it is possible that the election years are not very influential on the  scores in the top band.
+<img src="highest_mark_kcpe_plot_vs_election_year.png">
 * The p-value in all the cases tested is higher than 0.1 at about 0.7, indicating there is no statistically significant difference between examination results in election years compared to other years. This is a conclusion that can be supported by the initial plotting of the data which showed the data may be randomly distributed.
 * Some of the plotting however reveals that the percentage of candidates making the highest scores are roughly distributed in two different clusters, meaning something other than the election years could be significantly affecting the percentage of top scorers. (Note: In preliminary analysis in the [scratchpad](https://github.com/ivynyayieka/kenya_national_exams/blob/main/cleaning_and_scratchpad_exams.ipynb), it appeared cabinet secretaries were more influential in the kinds of results candidates got than election years)
-
+<img src="kcse_results_clusters.png">
 
 What I can't conclude based on this chart: 
 * Since it is possible other variables are affecting the distribution, I do not know yet which exact variable could be affecting the top scores.
